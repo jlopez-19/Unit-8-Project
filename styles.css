@@ -1,0 +1,48 @@
+img {
+    width: 400px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: #b30000;
+    font-family: 'Pirata One', cursive;
+}
+
+p {
+    color: white;
+}
+
+div {
+    color: hotpink;
+}
+
+body {
+    background-color: black;
+}
+
+.sv {
+    display: none;
+}
+
+.ks {
+    display: none;
+}
+
+.rats {
+    display: none;
+}
+
+.fwo {
+    display: none;
+}
+
+.preps {
+    display: none;
+}
+
+.dm {
+    display: none;
+}
